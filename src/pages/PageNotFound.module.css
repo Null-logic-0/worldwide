@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40vh;
+}
+.main h1 {
+  color: black;
+  font-size: 50px;
+  font-weight: 700;
+}
